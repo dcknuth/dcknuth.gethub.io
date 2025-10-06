@@ -41,6 +41,7 @@ Quick explanation of what is in my repositories
 * [Trying Postgres](https://github.com/dcknuth/trying_postgres/) Refreshing DB/SQL skills by working through the documentation of a, currently, very popular database
 
 ## Other Items
+* [Learning Rust](https://github.com/dcknuth/rust_learning) Learning Rust using the first 10 days from the Advent of Code
 * [Bench Power Supply from PC Supply](https://github.com/dcknuth/pc2bench_power) Creating a bench, DC power supply from an old PC power supply
 * [Backup an iPhone to a PC](https://github.com/dcknuth/iphone_backup/) How to backup an iPhone's pictures to a PC (without the compatibility switches)
 * [Building a fog cannon](https://github.com/dcknuth/fog_cannon) Hand-held fog cannon from vap pens
