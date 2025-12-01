@@ -18,6 +18,8 @@ Quick explanation of what is in my repositories
 * [Other SDR](https://github.com/dcknuth/more_sdr/) A collection of other things that needed a software defined radio. Mostly, what is transmitting near the house and tracking weather balloons
 
 ## Python
+* [Advent of Code 2025](https://github.com/dcknuth/aoc_2025) My solutions and commentary for AOC 2025. Will eventually include a Rust version also
+* [Advent of Code 2019 makeup](https://github.com/dcknuth/aoc_2019) I didn't do part of this year, so I'm going back to finish and do the same days in Rust also
 * [GIMP Plugin to do Focus Stacking](https://github.com/dcknuth/gimp_focus_stack) A Python plugin that uses another GitHub project to let you choose a directory of images and get a image with a larger depth of field by merging them directly in the GIMP (3.04 or later)
 * [GIMP Plugin to do Photo Merges](https://github.com/dcknuth/gimp_photo_merge) A Python plugin that uses OpenCV to let you choose photos from a panorama set and get a merged image directly in the GIMP (3.04 or later)
 * [Teach Yourself Python - Colab version](https://github.com/dcknuth/TYP_colab_version/blob/main/README.md) Colab version created for a 9 day, 2 hour/day course
