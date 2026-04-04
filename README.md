@@ -1,6 +1,9 @@
 # David Knuth GitHub Overview
 Quick explanation of what is in my repositories
 
+## AI Items
+* [Local LLM as Editor for Book Chapters](https://github.com/dcknuth/BookEditor) See if it is possible to get a local LLM to give reasonable advice as a book editor. Test on a single chapter from the first Nancy Drew novel, now in the public domain. Early attempts in earlier commits
+
 ## Embedded
 * [Pip-Boy Replica](https://github.com/dcknuth/pip_boy_replica) Created for a Halloween Costume
 * [Fake Fire](https://github.com/dcknuth/fake_fire) A fake fire to go in the fireplace
